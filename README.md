@@ -11,7 +11,7 @@ A list of communities about web development and design that are powered by [Slac
 - [NodeJS](http://nodeslackers.io/)
 - [Laravel](https://larachat.co/)
 - [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
-- [Front end](http://frontenddevelopers.org/)
+- [Frontend Developers](http://frontenddevelopers.org/)
 - [FEDs On Slack](http://fedsonslack.com/)
 - [Test](http://hashtagtesting.com/)
 - [Android](http://androidchat.co/)
